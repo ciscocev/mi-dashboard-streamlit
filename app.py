@@ -557,16 +557,13 @@ mostrar_hallazgo(encuesta, "presupuesto", "La experiencia más frecuente con pre
 
 st.header("8. Conclusiones")
 st.markdown(
-    "En esta muestra, el dashboard permite observar cómo se distribuyen los ingresos, "
-    "los gastos, el ahorro y la percepción de suficiencia del dinero, además de comparar "
-    "esas respuestas entre grupos definidos por variables de la propia encuesta. Los "
-    "resultados muestran patrones predominantes, pero no permiten afirmar que una actividad "
-    "remunerada, una frecuencia de ingreso o una categoría de gasto cause otra respuesta."
+    "En los estudiantes encuestados, la mayoría no cuenta con una actividad remunerada y " 
+    "depende de apoyo familiar o becas.Al relacionar esta situación con sus hábitos de ahorro,  "
+    "se observan diferencias en la frecuencia con la que ahorran según su actividad remunerada. "
+
 )
 st.markdown(
-    "La principal limitación es que se trata de 37 respuestas de una encuesta y no de un "
-    "diseño probabilístico; por ello los resultados no deben generalizarse a todos los "
-    "estudiantes. Además, los ingresos y gastos fueron capturados en rangos categóricos, "
-    "así que el análisis evita calcular promedios monetarios artificiales. Los cruces deben "
-    "leerse como asociaciones descriptivas y considerando el tamaño desigual de los grupos."
+    "En general, el ahorro forma parte de los hábitos financieros de la mayoría de los encuestados, "
+    "aunque la frecuencia y el porcentaje destinado varían entre los distintos grupos. "
+
 )
